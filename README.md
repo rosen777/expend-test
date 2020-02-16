@@ -2,7 +2,7 @@
 
 The purpose of this app is to help business users register to the Expend's dashboard and discover the benefits of having a flexible expenses solution with the power of Expend's smart payment card.
 
-The app was developed using the `React` library with `redux` for managing the application state. The form itself was created using `redux-form` and the data was sent to the dummy api using the `redux-thunk` middleware.
+The app was developed using the `React` library with `redux` for managing the application state. The form itself was created using the `redux-form` HOC and the data was sent to the dummy api using the `redux-thunk` middleware.
 
 ## Launching the Expend Registration Form
 
