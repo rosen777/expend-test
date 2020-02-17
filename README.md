@@ -29,5 +29,5 @@ The app will then start and run on http://localhost:3000/.
 
 ![](expend-api.gif)
 
-**Validations made using RegEx and the Redux Form HOC**
+**Validations made using RegEx test and Redux Form**
 ![](expend-validations.gif)
